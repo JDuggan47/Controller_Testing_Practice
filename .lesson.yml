@@ -1,0 +1,5 @@
+---
+title: "Controller Testing"
+type: "article"
+description: "Make sure your API endpoints are handing off the data we expect"
+tags: "rails, controllers, testing, api-endpoints, react-on-rails"
